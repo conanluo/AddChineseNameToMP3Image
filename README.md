@@ -1,3 +1,4 @@
+[中文说明](https://github.com/conanluo/AddChineseNameToMP3Image/blob/main/readme.md)
 ### 1. There is a problem
 I live in the United States, and my car has no Chinese display, so I don’t know what the name is when I listen to the song, so I want to write a program of `electron+vue` to convert my music files into pinyin.
 
