@@ -1,0 +1,16 @@
+{
+  "name": "pinyin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": { 
+    "test": "node .\\app.js"
+  },
+  "author": "Conan",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "node-id3": "^0.2.3"
+  }
+}
